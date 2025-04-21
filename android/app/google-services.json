@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "175979610480",
+    "project_id": "donote-eb782",
+    "storage_bucket": "donote-eb782.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175979610480:android:4907af0139d3e0ff88cfb5",
+        "android_client_info": {
+          "package_name": "com.example.donote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175979610480-vfp586qc2n8lmn5jv7d7gv7lodm516sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donote",
+            "certificate_hash": "aa9e7b156942ce648897573b678bd3b0d50a45bd"
+          }
+        },
+        {
+          "client_id": "175979610480-l2kf23ti7oq2f0a29it1fibgui4362g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQycdjD4Gx1mfVns5wqYI7wmUUKPfOjH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175979610480-l2kf23ti7oq2f0a29it1fibgui4362g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175979610480-roehcntblntc19be2u0lmniuh23rfa57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.donote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
